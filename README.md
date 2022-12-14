@@ -13,11 +13,12 @@
 
 
 <div id="badges" align="center">
-<h1>Hi there 👋</h1>
+<h1>Hi there, my name is Gustavo 👋</h1>
 </div>
 
-
-<div>
+<h3>Languages and Tools🔥</h3>
+<br>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -30,11 +31,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
 </div>
 
-**gustapine/gustapine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**gustapine/gustapine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<h2>Here are some ideas to get you started:</h2>
 
 - 🔭 I’m currently working on Companhia Águas de Joinville
 - 🌱 I’m currently learning Node.js, React.js
@@ -47,5 +49,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't like chuchu
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gustapine&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustapine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gustapine&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustapine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
