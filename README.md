@@ -13,7 +13,7 @@
 
 
 <div id="badges" align="center">
-<h1>Hi there, my name is Gustavo 👋</h1>
+<h1>hi there! my name is gustavo, but u can call me gus 👋</h1>
 </div>
 
 <h3>Languages and Tools🔥</h3>
