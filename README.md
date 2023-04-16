@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 </div>
@@ -13,7 +17,7 @@
 
 
 <div id="badges" align="center">
-<h1>hi! my name is gustavo, but u can call me gus 👋</h1>
+<h1 font-family:"'Playfair Display', serif">hi! my name is gustavo, but u can call me gus 👋</h1>
 </div>
 
 <h3>Languages and Tools🔥</h3>
