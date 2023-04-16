@@ -1,12 +1,8 @@
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
-</head>
-  
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-</div>
+
+
+![headerReadme](https://user-images.githubusercontent.com/90855105/232343989-0855c0d6-a4ca-4f9f-aecb-e00c42d50df6.png)
+
+
 
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/gustavo-dias-218a38220/">
@@ -19,7 +15,7 @@
 
 
 <div id="badges" align="center">
-<h1 font-family:"'Playfair Display', serif">hi! my name is gustavo, but u can call me gus 👋</h1>
+<h1>hi! my name is gustavo, but u can call me gus 👋</h1>
 </div>
 
 <h3>Languages and Tools🔥</h3>
@@ -56,8 +52,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't like chuchu
 
+<div>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=gustapine&theme=dark&background=000000">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustapine&layout=compact&theme=vision-friendly-dark" align="left">
+</div>
 
-     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gustapine&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustapine&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
