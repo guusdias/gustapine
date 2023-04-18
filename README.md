@@ -45,7 +45,7 @@
 
 <h2>Here are some ideas to get you started:</h2>
 
-- 🔭 I’m currently working on Companhia Águas de Joinville
+- 🔭 I’m currently working on Sizebay
 
 - 🌱 I’m currently learning Node.js, React.js
 <!-- 
