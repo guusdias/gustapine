@@ -55,8 +55,6 @@
 -->
 - 📫 How to reach me: @gvstavu
 
-- 😄 Pronouns: He/Him
-
 - ⚡ Fun fact: I don't like chuchu
 
 <div>
