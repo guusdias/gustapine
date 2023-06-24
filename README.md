@@ -47,7 +47,7 @@
 
 - 🔭 I’m currently working on Sizebay
 
-- 🌱 I’m currently learning Node.js, React.js
+- 🌱 I’m currently learning Node.js, React.js and Java
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
