@@ -51,7 +51,7 @@
 - ⚡ Fun fact: I don't like chuchu
 
 <div>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=gustapine&theme=dark&background=000000">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustapine&layout=compact&theme=vision-friendly-dark" align="left">
+<img width="500px;" width="300px;" src="http://github-readme-streak-stats.herokuapp.com?user=gustapine&theme=dark&background=000000">
+<img width="500px;" width="300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustapine&layout=compact&theme=vision-friendly-dark" align="left">
 </div>
 
