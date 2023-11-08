@@ -1,9 +1,3 @@
-
-
-![headerReadme](https://user-images.githubusercontent.com/90855105/232343989-0855c0d6-a4ca-4f9f-aecb-e00c42d50df6.png)
-
-
-
 <div id="badges" align="center">
   <a target="_blank" href="https://www.linkedin.com/in/gustavo-dias-218a38220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
