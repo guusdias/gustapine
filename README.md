@@ -29,7 +29,7 @@
 <img src="https://media.giphy.com/media/naHajXo1CJ3oRsSM71/giphy.gif" width="150" height="170">
 </div>
 
-<!--**gustapine/gustapine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**guusdias/guusdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h2>Here are some ideas to get you started:</h2>
 
@@ -46,6 +46,6 @@
 - ⚡ Fun fact: I don't like chuchu
 
 <div display="flex">
-<img width="500px;" width="300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustapine&layout=compact&theme=vision-friendly-dark" align="left">
+<img width="500px;" width="300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guusdias&layout=compact&theme=vision-friendly-dark" align="left">
 </div>
 
