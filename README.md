@@ -1,4 +1,4 @@
-
+<div align="center" tyle="color: red; text-decoration: underline;">
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"  title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
@@ -11,4 +11,9 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="Csharp" **alt="Csharp" width="40" height="40"/>
 </div>
-
+<hr>
+<div align="center">
+<a href="https://github.com/guusdias/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guusdias&layout=normal&theme=transparent&card_width=480&hide=css,html,cmake,dart,c" />
+</a></div>
+</div>
