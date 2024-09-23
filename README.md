@@ -11,6 +11,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="Csharp" **alt="Csharp" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" **alt="C++" width="40" height="40"/>
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" **alt="Python" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="Express" **alt="Express" width="40" height="40"/>
 </div>
